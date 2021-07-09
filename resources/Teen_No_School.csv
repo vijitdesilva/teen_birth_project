@@ -1,0 +1,451 @@
+Location,Data,TimeFrame
+Alabama,16000,2012
+Alabama,17000,2011
+Alabama,21000,2010
+Alabama,19000,2009
+Alabama,13000,2013
+Alabama,26000,2007
+Alabama,21000,2008
+Alabama,22000,2005
+Alabama,24000,2006
+Alaska,3000,2006
+Alaska,4000,2005
+Alaska,4000,2008
+Alaska,3000,2007
+Alaska,2000,2013
+Alaska,3000,2009
+Alaska,3000,2010
+Alaska,3000,2011
+Alaska,2000,2012
+Arizona,20000,2012
+Arizona,24000,2011
+Arizona,30000,2010
+Arizona,27000,2009
+Arizona,21000,2013
+Arizona,34000,2007
+Arizona,32000,2008
+Arizona,28000,2005
+Arizona,31000,2006
+Arkansas,10000,2006
+Arkansas,12000,2005
+Arkansas,11000,2007
+Arkansas,15000,2008
+Arkansas,7000,2013
+Arkansas,14000,2010
+Arkansas,11000,2009
+Arkansas,7000,2011
+Arkansas,9000,2012
+California,79000,2012
+California,88000,2011
+California,114000,2010
+California,113000,2009
+California,73000,2013
+California,141000,2008
+California,144000,2007
+California,134000,2005
+California,141000,2006
+Colorado,23000,2006
+Colorado,19000,2005
+Colorado,18000,2007
+Colorado,20000,2008
+Colorado,11000,2013
+Colorado,20000,2009
+Colorado,15000,2010
+Colorado,16000,2011
+Colorado,11000,2012
+Connecticut,6000,2012
+Connecticut,7000,2011
+Connecticut,8000,2010
+Connecticut,9000,2009
+Connecticut,6000,2013
+Connecticut,10000,2008
+Connecticut,8000,2007
+Connecticut,7000,2005
+Connecticut,8000,2006
+Delaware,3000,2006
+Delaware,4000,2005
+Delaware,5000,2007
+Delaware,4000,2008
+Delaware,1000,2013
+Delaware,3000,2009
+Delaware,3000,2010
+Delaware,3000,2011
+Delaware,3000,2012
+Florida,74000,2006
+Florida,75000,2005
+Florida,81000,2007
+Florida,65000,2008
+Florida,48000,2013
+Florida,67000,2009
+Florida,58000,2010
+Florida,56000,2011
+Florida,48000,2012
+Georgia,34000,2012
+Georgia,40000,2011
+Georgia,43000,2010
+Georgia,45000,2009
+Georgia,33000,2013
+Georgia,49000,2008
+Georgia,57000,2007
+Georgia,49000,2005
+Georgia,52000,2006
+Hawaii,4000,2006
+Hawaii,2000,2005
+Hawaii,3000,2007
+Hawaii,5000,2008
+Hawaii,2000,2013
+Hawaii,5000,2009
+Hawaii,3000,2010
+Hawaii,3000,2011
+Hawaii,3000,2012
+Idaho,4000,2012
+Idaho,4000,2011
+Idaho,5000,2010
+Idaho,6000,2009
+Idaho,6000,2013
+Idaho,6000,2008
+Idaho,6000,2007
+Idaho,7000,2005
+Idaho,6000,2006
+Illinois,41000,2006
+Illinois,44000,2005
+Illinois,45000,2007
+Illinois,44000,2008
+Illinois,25000,2013
+Illinois,44000,2009
+Illinois,37000,2010
+Illinois,36000,2011
+Illinois,26000,2012
+Indiana,23000,2012
+Indiana,23000,2011
+Indiana,25000,2010
+Indiana,27000,2009
+Indiana,19000,2013
+Indiana,25000,2007
+Indiana,30000,2008
+Indiana,28000,2006
+Indiana,27000,2005
+Iowa,8000,2005
+Iowa,8000,2006
+Iowa,7000,2007
+Iowa,6000,2008
+Iowa,5000,2013
+Iowa,9000,2009
+Iowa,8000,2010
+Iowa,8000,2011
+Iowa,6000,2012
+Kansas,8000,2012
+Kansas,7000,2011
+Kansas,7000,2010
+Kansas,8000,2009
+Kansas,5000,2013
+Kansas,8000,2008
+Kansas,7000,2007
+Kansas,7000,2006
+Kansas,9000,2005
+Kentucky,18000,2005
+Kentucky,20000,2006
+Kentucky,19000,2007
+Kentucky,16000,2008
+Kentucky,9000,2013
+Kentucky,17000,2009
+Kentucky,15000,2010
+Kentucky,10000,2011
+Kentucky,10000,2012
+Louisiana,19000,2012
+Louisiana,18000,2011
+Louisiana,26000,2010
+Louisiana,20000,2009
+Louisiana,20000,2013
+Louisiana,27000,2008
+Louisiana,26000,2007
+Louisiana,31000,2006
+Louisiana,21000,2005
+Maine,4000,2005
+Maine,3000,2006
+Maine,4000,2007
+Maine,4000,2008
+Maine,2000,2013
+Maine,3000,2009
+Maine,3000,2010
+Maine,2000,2011
+Maine,2000,2012
+Maryland,14000,2012
+Maryland,15000,2011
+Maryland,18000,2010
+Maryland,16000,2009
+Maryland,12000,2013
+Maryland,20000,2008
+Maryland,22000,2007
+Maryland,21000,2006
+Maryland,21000,2005
+Massachusetts,14000,2005
+Massachusetts,15000,2006
+Massachusetts,20000,2007
+Massachusetts,17000,2008
+Massachusetts,11000,2013
+Massachusetts,16000,2009
+Massachusetts,14000,2010
+Massachusetts,12000,2011
+Massachusetts,11000,2012
+Michigan,25000,2012
+Michigan,30000,2011
+Michigan,30000,2010
+Michigan,34000,2009
+Michigan,28000,2013
+Michigan,37000,2008
+Michigan,33000,2007
+Michigan,36000,2006
+Michigan,35000,2005
+Minnesota,11000,2005
+Minnesota,12000,2006
+Minnesota,9000,2007
+Minnesota,8000,2008
+Minnesota,10000,2013
+Minnesota,11000,2009
+Minnesota,11000,2010
+Minnesota,10000,2011
+Minnesota,9000,2012
+Mississippi,12000,2012
+Mississippi,11000,2011
+Mississippi,16000,2010
+Mississippi,14000,2009
+Mississippi,11000,2013
+Mississippi,14000,2008
+Mississippi,16000,2007
+Mississippi,19000,2006
+Mississippi,14000,2005
+Missouri,23000,2005
+Missouri,20000,2006
+Missouri,25000,2007
+Missouri,22000,2008
+Missouri,14000,2013
+Missouri,24000,2009
+Missouri,20000,2010
+Missouri,18000,2011
+Missouri,18000,2012
+Montana,3000,2012
+Montana,4000,2011
+Montana,4000,2010
+Montana,5000,2009
+Montana,3000,2013
+Montana,5000,2008
+Montana,4000,2007
+Montana,5000,2006
+Montana,4000,2005
+Nebraska,5000,2005
+Nebraska,6000,2006
+Nebraska,4000,2007
+Nebraska,5000,2008
+Nebraska,2000,2013
+Nebraska,5000,2009
+Nebraska,3000,2010
+Nebraska,3000,2011
+Nebraska,4000,2012
+Nevada,9000,2012
+Nevada,10000,2011
+Nevada,13000,2010
+Nevada,16000,2009
+Nevada,8000,2013
+Nevada,13000,2008
+Nevada,15000,2007
+Nevada,13000,2006
+Nevada,13000,2005
+New Hampshire,4000,2005
+New Hampshire,3000,2006
+New Hampshire,3000,2007
+New Hampshire,3000,2008
+New Hampshire,1000,2013
+New Hampshire,2000,2009
+New Hampshire,2000,2010
+New Hampshire,2000,2011
+New Hampshire,2000,2012
+New Jersey,12000,2012
+New Jersey,15000,2011
+New Jersey,19000,2010
+New Jersey,16000,2009
+New Jersey,13000,2013
+New Jersey,22000,2006
+New Jersey,18000,2008
+New Jersey,22000,2007
+New Jersey,25000,2005
+New Mexico,11000,2005
+New Mexico,12000,2006
+New Mexico,10000,2007
+New Mexico,7000,2013
+New Mexico,11000,2008
+New Mexico,11000,2009
+New Mexico,12000,2010
+New Mexico,10000,2011
+New Mexico,10000,2012
+New York,45000,2012
+New York,51000,2011
+New York,58000,2010
+New York,61000,2009
+New York,62000,2008
+New York,43000,2013
+New York,62000,2007
+New York,63000,2006
+New York,61000,2005
+North Carolina,37000,2005
+North Carolina,36000,2006
+North Carolina,40000,2007
+North Carolina,27000,2013
+North Carolina,41000,2008
+North Carolina,39000,2009
+North Carolina,37000,2010
+North Carolina,29000,2011
+North Carolina,29000,2012
+North Dakota,1000,2012
+North Dakota,2000,2011
+North Dakota,1000,2010
+North Dakota,2000,2009
+North Dakota,3000,2008
+North Dakota,2000,2013
+North Dakota,1000,2007
+North Dakota,1000,2006
+North Dakota,1000,2005
+Ohio,37000,2005
+Ohio,36000,2006
+Ohio,34000,2007
+Ohio,24000,2013
+Ohio,32000,2008
+Ohio,33000,2009
+Ohio,36000,2010
+Ohio,28000,2011
+Ohio,25000,2012
+Oklahoma,14000,2012
+Oklahoma,13000,2011
+Oklahoma,16000,2010
+Oklahoma,17000,2009
+Oklahoma,18000,2008
+Oklahoma,13000,2013
+Oklahoma,16000,2007
+Oklahoma,16000,2006
+Oklahoma,18000,2005
+Oregon,12000,2005
+Oregon,14000,2006
+Oregon,14000,2007
+Oregon,9000,2013
+Oregon,13000,2008
+Oregon,12000,2009
+Oregon,13000,2010
+Oregon,10000,2011
+Oregon,8000,2012
+Pennsylvania,31000,2012
+Pennsylvania,30000,2011
+Pennsylvania,33000,2010
+Pennsylvania,37000,2009
+Pennsylvania,37000,2008
+Pennsylvania,27000,2013
+Pennsylvania,41000,2007
+Pennsylvania,42000,2006
+Pennsylvania,39000,2005
+Rhode Island,4000,2005
+Rhode Island,5000,2006
+Rhode Island,4000,2007
+Rhode Island,2000,2013
+Rhode Island,4000,2008
+Rhode Island,4000,2009
+Rhode Island,3000,2010
+Rhode Island,3000,2011
+Rhode Island,3000,2012
+South Carolina,15000,2012
+South Carolina,18000,2011
+South Carolina,17000,2010
+South Carolina,18000,2009
+South Carolina,18000,2008
+South Carolina,13000,2013
+South Carolina,23000,2007
+South Carolina,20000,2006
+South Carolina,20000,2005
+South Dakota,3000,2005
+South Dakota,3000,2006
+South Dakota,3000,2007
+South Dakota,2000,2013
+South Dakota,3000,2008
+South Dakota,3000,2009
+South Dakota,4000,2010
+South Dakota,2000,2011
+South Dakota,1000,2012
+Tennessee,12000,2012
+Tennessee,13000,2011
+Tennessee,16000,2010
+Tennessee,18000,2009
+Tennessee,23000,2008
+Tennessee,11000,2013
+Tennessee,24000,2007
+Tennessee,20000,2006
+Tennessee,24000,2005
+Texas,98000,2005
+Texas,105000,2006
+Texas,116000,2007
+Texas,75000,2013
+Texas,105000,2008
+Texas,105000,2009
+Texas,99000,2010
+Texas,88000,2011
+Texas,79000,2012
+Utah,9000,2012
+Utah,6000,2011
+Utah,10000,2010
+Utah,8000,2009
+Utah,12000,2008
+Utah,7000,2013
+Utah,9000,2007
+Utah,10000,2006
+Utah,10000,2005
+Vermont,2000,2005
+Vermont,2000,2006
+Vermont,1000,2007
+Vermont,1000,2013
+Vermont,1000,2008
+Vermont,2000,2009
+Vermont,1000,2010
+Vermont,1000,2011
+Vermont,1000,2012
+Virginia,13000,2012
+Virginia,16000,2011
+Virginia,15000,2010
+Virginia,17000,2009
+Virginia,19000,2008
+Virginia,14000,2013
+Virginia,22000,2007
+Virginia,23000,2006
+Virginia,21000,2005
+Washington,24000,2005
+Washington,23000,2006
+Washington,25000,2007
+Washington,12000,2013
+Washington,25000,2008
+Washington,23000,2009
+Washington,20000,2010
+Washington,17000,2011
+Washington,16000,2012
+West Virginia,4000,2012
+West Virginia,6000,2011
+West Virginia,6000,2010
+West Virginia,9000,2009
+West Virginia,8000,2008
+West Virginia,4000,2013
+West Virginia,7000,2007
+West Virginia,8000,2006
+West Virginia,7000,2005
+Wisconsin,16000,2005
+Wisconsin,16000,2006
+Wisconsin,14000,2007
+Wisconsin,11000,2013
+Wisconsin,12000,2008
+Wisconsin,13000,2009
+Wisconsin,14000,2010
+Wisconsin,13000,2011
+Wisconsin,9000,2012
+Wyoming,1000,2011
+Wyoming,1000,2012
+Wyoming,2000,2010
+Wyoming,2000,2009
+Wyoming,2000,2008
+Wyoming,1000,2013
+Wyoming,2000,2006
+Wyoming,2000,2007
+Wyoming,2000,2005

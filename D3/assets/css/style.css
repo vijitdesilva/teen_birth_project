@@ -1,0 +1,22 @@
+.iframeContainer {
+  padding: 20px;
+  border: 1px solid #8a1010;
+}
+
+/* Sticky Footer rules (https://getbootstrap.com/examples/sticky-footer/) */
+html {
+  position: relative;
+  min-height: 100%;
+  font-family: Georgia;
+}
+
+body {
+  /* Padding bottom by footer height */
+  padding-bottom: 80px;
+}
+
+
+#footer p {
+  margin: 0;
+  font-size: 16px;
+}

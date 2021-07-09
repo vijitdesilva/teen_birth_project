@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+
+  <body>  
+    <header>
+      <nav class="navbar">
+        <span class="open-slide">
+          <a href="#" onclick="openSlideMenu()">
+            <svg width="30" height="30">
+              <path d="M0,5 30,5" stroke="#fff"
+              stroke-width="5"/>
+              <path d="M0,14 30,14" stroke="#fff"
+              stroke-width="5"/>
+              <path d="M0,23 30,23" stroke="#fff"
+              stroke-width="5"/>
+            </svg>
+          </a>
+        </span>
+        <ul class="navbar-nav">
+          <li><a href="index.html">Home</a></li>
+          <li><a href="bargraph/index.html">Teen Births Per Year</a></li>
+          <li><a href="D3/index.html">Teen Births Related Factors</a></li>
+          <li><a href="D3_Birth_rates/index.html">Teen Births Rates</a></li>
+          <li><a href="#">Teen Birth and Ethnicity</a></li>
+          <li><a href="Heatamp/index.html">Teen Birth Map</a></li>
+        </ul>
+        </nav>
+        <div id="side-menu" class="side-nav">
+          <a href="#" class="btn-close" 
+          onclick="closeSlideMenu()">&times;</a>
+          <a href="bargraph/index.html">Teen Births Per Year</a>
+          <a href="D3/index.html">Teen Birth Related Factors</a>
+          <a href="D3_Birth_rates/index.html">Teen Birth Rates</a>
+          <a href="#">Teen Birth and Ethnicity</a>
+          <a href="Heatamp/index.html">Teen Birth Map</a>
+        </div>
+        <div id="main">
+          <h1><font-face="Georgia"><font-size="30">STEP
+            <br>
+            <br> Statewide TEenage Pregnancy Program
+          </h1>
+        </div>
+        <script>
+          function openSlideMenu(){
+            document.getElementById('side-menu').style.width
+            ='250px';
+            document.getElementById('side-menu').style.marginLeft
+            ='250px';
+          }
+          function closeSlideMenu(){
+            document.getElementById('side-menu').style.width
+            ='250px';
+            document.getElementById('side-menu').style.marginLeft
+            ='250px';
+        </script>
+        <a target="_blank" href="resources/Map_image_1.png">
+        <img src="resources/Map_image_1.png" alt="Teen birth Map">
+        </a>
+      <br> 
+      <h3> <font-face="Georgia"><font-size="30"> So what's the big deal? </h3>
+    <h4><font-face="Georgia"><font-size="28"> Teen pregnancy is connected to a number of other issues that matter to communities: </h4>
+    <ul><li>Poverty</li>
+        <li>Dropout rates and low graduation rates</li>
+        <li>Increased reliance on social services</li>
+        <li>Lower attainment of higher education</li>
+        <li>Reduced military/deployment readiness</li>
+        <li>Reduced lifelong earning potential</li>
+        <li>Child abuse and domestic violence</li>
+    </ul>
+    
+  </body>
+</html>

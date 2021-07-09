@@ -1,0 +1,452 @@
+[
+ {
+   "Location": "Alabama",
+   "AverageBirth": 7479,
+   "AverageEducation": 19889,
+   "AverageDrug": 24333,
+   "Latitude": "32.94663924268507",
+   "Longitude": "-86.74585628227189",
+   "Population": 4392298
+ },
+ {
+   "Location": "Alaska",
+   "AverageBirth": 984,
+   "AverageEducation": 3000,
+   "AverageDrug": 4333,
+   "Latitude": "61.53929202453989",
+   "Longitude": "-151.31149417177897",
+   "Population": 739126
+ },
+ {
+   "Location": "Arizona",
+   "AverageBirth": 10399,
+   "AverageEducation": 27444,
+   "AverageDrug": 41111,
+   "Latitude": "33.87650421545662",
+   "Longitude": "-111.57983419203751",
+   "Population": 9953669
+ },
+ {
+   "Location": "Arkansas",
+   "AverageBirth": 5310,
+   "AverageEducation": 10667,
+   "AverageDrug": 17222,
+   "Latitude": "35.07314552238799",
+   "Longitude": "-92.35712313432839",
+   "Population": 2665795
+ },
+ {
+   "Location": "California",
+   "AverageBirth": 44740,
+   "AverageEducation": 114111,
+   "AverageDrug": 238889,
+   "Latitude": "36.89718122448979",
+   "Longitude": "-120.19224523809523",
+   "Population": 59652083
+ },
+ {
+   "Location": "Colorado",
+   "AverageBirth": 5682,
+   "AverageEducation": 17000,
+   "AverageDrug": 33667,
+   "Latitude": "39.185609598214285",
+   "Longitude": "-105.29131183035715",
+   "Population": 7734597
+ },
+ {
+   "Location": "Connecticut",
+   "AverageBirth": 2412,
+   "AverageEducation": 7667,
+   "AverageDrug": 21222,
+   "Latitude": "41.55938454545454",
+   "Longitude": "-72.69241181818181",
+   "Population": 4074019
+ },
+ {
+   "Location": "Delaware",
+   "AverageBirth": 1046,
+   "AverageEducation": 3222,
+   "AverageDrug": 4444,
+   "Latitude": "39.13644805194804",
+   "Longitude": "-75.48771428571423",
+   "Population": 565804
+ },
+ {
+   "Location": "Florida",
+   "AverageBirth": 20830,
+   "AverageEducation": 63556,
+   "AverageDrug": 93333,
+   "Latitude": "28.13875762897911",
+   "Longitude": "-82.12087189901219",
+   "Population": 31031088
+ },
+ {
+   "Location": "Georgia",
+   "AverageBirth": 15014,
+   "AverageEducation": 44667,
+   "AverageDrug": 49667,
+   "Latitude": "32.96086985413286",
+   "Longitude": "-83.57111912479728",
+   "Population": 11192163
+ },
+ {
+   "Location": "Hawaii",
+   "AverageBirth": 1390,
+   "AverageEducation": 3333,
+   "AverageDrug": 7222,
+   "Latitude": "20.900469127516786",
+   "Longitude": "-157.17823489932894",
+   "Population": 1826327
+ },
+ {
+   "Location": "Idaho",
+   "AverageBirth": 1906,
+   "AverageEducation": 5556,
+   "AverageDrug": 10333,
+   "Latitude": "44.56648230088495",
+   "Longitude": "-114.68508097345129",
+   "Population": 1704042
+ },
+ {
+   "Location": "Illinois",
+   "AverageBirth": 15215,
+   "AverageEducation": 38000,
+   "AverageDrug": 70000,
+   "Latitude": "40.336292364170355",
+   "Longitude": "-89.02857812041128",
+   "Population": 18104498
+ },
+ {
+   "Location": "Indiana",
+   "AverageBirth": 8759,
+   "AverageEducation": 25222,
+   "AverageDrug": 35778,
+   "Latitude": "39.98211698670604",
+   "Longitude": "-86.28039571639582",
+   "Population": 6236667
+ },
+ {
+   "Location": "Iowa",
+   "AverageBirth": 3093,
+   "AverageEducation": 7222,
+   "AverageDrug": 17667,
+   "Latitude": "42.0552384845464",
+   "Longitude": "-93.38532691924229",
+   "Population": 3193169
+ },
+ {
+   "Location": "Kansas",
+   "AverageBirth": 3845,
+   "AverageEducation": 7333,
+   "AverageDrug": 16889,
+   "Latitude": "38.515212107623285",
+   "Longitude": "-97.33798714499241",
+   "Population": 2595209
+ },
+ {
+   "Location": "Kentucky",
+   "AverageBirth": 6714,
+   "AverageEducation": 14889,
+   "AverageDrug": 21889,
+   "Latitude": "37.77300780669145",
+   "Longitude": "-85.40234814126393",
+   "Population": 3307905
+ },
+ {
+   "Location": "Louisiana",
+   "AverageBirth": 7768,
+   "AverageEducation": 23111,
+   "AverageDrug": 22667,
+   "Latitude": "30.98160822784807",
+   "Longitude": "-91.83755379746836",
+   "Population": 4845764
+ },
+ {
+   "Location": "Maine",
+   "AverageBirth": 984,
+   "AverageEducation": 3000,
+   "AverageDrug": 7111,
+   "Latitude": "44.1375487804878",
+   "Longitude": "-69.74428048780489",
+   "Population": 624328
+ },
+ {
+   "Location": "Maryland",
+   "AverageBirth": 5639,
+   "AverageEducation": 17667,
+   "AverageDrug": 28778,
+   "Latitude": "39.09333196078435",
+   "Longitude": "-76.98258607843138",
+   "Population": 6840820
+ },
+ {
+   "Location": "Massachusetts",
+   "AverageBirth": 4069,
+   "AverageEducation": 14444,
+   "AverageDrug": 38000,
+   "Latitude": "42.0858402877698",
+   "Longitude": "-71.17786330935256",
+   "Population": 9103538
+ },
+ {
+   "Location": "Michigan",
+   "AverageBirth": 10844,
+   "AverageEducation": 32000,
+   "AverageDrug": 59444,
+   "Latitude": "43.476085631349754",
+   "Longitude": "-84.86419608127717",
+   "Population": 10403850
+ },
+ {
+   "Location": "Minnesota",
+   "AverageBirth": 4231,
+   "AverageEducation": 10111,
+   "AverageDrug": 31222,
+   "Latitude": "45.49653571428573",
+   "Longitude": "-94.28565546874981",
+   "Population": 7402427
+ },
+ {
+   "Location": "Mississippi",
+   "AverageBirth": 6259,
+   "AverageEducation": 14111,
+   "AverageDrug": 14778,
+   "Latitude": "32.89797811634351",
+   "Longitude": "-89.61043407202213",
+   "Population": 2093005
+ },
+ {
+   "Location": "Missouri",
+   "AverageBirth": 7938,
+   "AverageEducation": 20444,
+   "AverageDrug": 33667,
+   "Latitude": "38.464815392156865",
+   "Longitude": "-92.44622019607841",
+   "Population": 7474758
+ },
+ {
+   "Location": "Montana",
+   "AverageBirth": 1117,
+   "AverageEducation": 4111,
+   "AverageDrug": 7111,
+   "Latitude": "47.08687694444442",
+   "Longitude": "-110.94557916666666",
+   "Population": 842286
+ },
+ {
+   "Location": "Nebraska",
+   "AverageBirth": 1994,
+   "AverageEducation": 4111,
+   "AverageDrug": 10444,
+   "Latitude": "41.210014930555566",
+   "Longitude": "-98.34825833333326",
+   "Population": 1910641
+ },
+ {
+   "Location": "Nevada",
+   "AverageBirth": 3629,
+   "AverageEducation": 12222,
+   "AverageDrug": 16556,
+   "Latitude": "38.78679599999997",
+   "Longitude": "-117.37820159999998",
+   "Population": 4548072
+ },
+ {
+   "Location": "New Hampshire",
+   "AverageBirth": 761,
+   "AverageEducation": 2444,
+   "AverageDrug": 8667,
+   "Latitude": "43.49215",
+   "Longitude": "-71.50281315789475",
+   "Population": 813191
+ },
+ {
+   "Location": "New Jersey",
+   "AverageBirth": 6091,
+   "AverageEducation": 18000,
+   "AverageDrug": 45778,
+   "Latitude": "40.312848818897635",
+   "Longitude": "-74.51908622047247",
+   "Population": 5549930
+ },
+ {
+   "Location": "New Mexico",
+   "AverageBirth": 4039,
+   "AverageEducation": 10444,
+   "AverageDrug": 14778,
+   "Latitude": "34.69410282352942",
+   "Longitude": "-106.51020329411786",
+   "Population": 2118537
+ },
+ {
+   "Location": "New York",
+   "AverageBirth": 15366,
+   "AverageEducation": 56222,
+   "AverageDrug": 103667,
+   "Latitude": "41.961682954545466",
+   "Longitude": "-74.82890750000007",
+   "Population": 36249123
+ },
+ {
+   "Location": "North Carolina",
+   "AverageBirth": 12824,
+   "AverageEducation": 35000,
+   "AverageDrug": 46778,
+   "Latitude": "35.440849249658896",
+   "Longitude": "-79.31589004092766",
+   "Population": 9441066
+ },
+ {
+   "Location": "North Dakota",
+   "AverageBirth": 643,
+   "AverageEducation": 1556,
+   "AverageDrug": 3778,
+   "Latitude": "47.52731863979853",
+   "Longitude": "-99.64295037783377",
+   "Population": 735625
+ },
+ {
+   "Location": "Ohio",
+   "AverageBirth": 14139,
+   "AverageEducation": 31667,
+   "AverageDrug": 65556,
+   "Latitude": "40.35379717138103",
+   "Longitude": "-82.80702695507482",
+   "Population": 13813630
+ },
+ {
+   "Location": "Oklahoma",
+   "AverageBirth": 6675,
+   "AverageEducation": 15667,
+   "AverageDrug": 19556,
+   "Latitude": "35.552590027322395",
+   "Longitude": "-96.75078825136606",
+   "Population": 3727497
+ },
+ {
+   "Location": "Oregon",
+   "AverageBirth": 3694,
+   "AverageEducation": 11667,
+   "AverageDrug": 23111,
+   "Latitude": "44.562228686327096",
+   "Longitude": "-122.02480991957115",
+   "Population": 5311863
+ },
+ {
+   "Location": "Pennsylvania",
+   "AverageBirth": 12045,
+   "AverageEducation": 35222,
+   "AverageDrug": 63444,
+   "Latitude": "40.61170181928449",
+   "Longitude": "-77.63910400242564",
+   "Population": 15443773
+ },
+ {
+   "Location": "Rhode Island",
+   "AverageBirth": 972,
+   "AverageEducation": 3556,
+   "AverageDrug": 6222,
+   "Latitude": "41.66150625000001",
+   "Longitude": "-71.57234062500002",
+   "Population": 1650022
+ },
+ {
+   "Location": "South Carolina",
+   "AverageBirth": 7015,
+   "AverageEducation": 18000,
+   "AverageDrug": 23556,
+   "Latitude": "34.03092487309646",
+   "Longitude": "-81.1058373096447",
+   "Population": 4625071
+ },
+ {
+   "Location": "South Dakota",
+   "AverageBirth": 1032,
+   "AverageEducation": 2667,
+   "AverageDrug": 5000,
+   "Latitude": "44.284767015706784",
+   "Longitude": "-98.92596282722515",
+   "Population": 698307
+ },
+ {
+   "Location": "Tennessee",
+   "AverageBirth": 9681,
+   "AverageEducation": 17889,
+   "AverageDrug": 31444,
+   "Latitude": "35.82947353629975",
+   "Longitude": "-86.24952037470722",
+   "Population": 6172183
+ },
+ {
+   "Location": "Texas",
+   "AverageBirth": 48219,
+   "AverageEducation": 96667,
+   "AverageDrug": 145778,
+   "Latitude": "30.75290571768909",
+   "Longitude": "-97.77865771292429",
+   "Population": 33717239
+ },
+ {
+   "Location": "Utah",
+   "AverageBirth": 3099,
+   "AverageEducation": 9000,
+   "AverageDrug": 15000,
+   "Latitude": "39.878024534161476",
+   "Longitude": "-111.76328913043484",
+   "Population": 4969594
+ },
+ {
+   "Location": "Vermont",
+   "AverageBirth": 412,
+   "AverageEducation": 1333,
+   "AverageDrug": 3889,
+   "Latitude": "44.05184791666667",
+   "Longitude": "-72.56088333333334",
+   "Population": 244194
+ },
+ {
+   "Location": "Virginia",
+   "AverageBirth": 7710,
+   "AverageEducation": 17778,
+   "AverageDrug": 41333,
+   "Latitude": "37.77142525597274",
+   "Longitude": "-78.3673529010239",
+   "Population": 8272237
+ },
+ {
+   "Location": "Washington",
+   "AverageBirth": 6275,
+   "AverageEducation": 20556,
+   "AverageDrug": 37333,
+   "Latitude": "47.342099507389136",
+   "Longitude": "-121.37109392446622",
+   "Population": 10455744
+ },
+ {
+   "Location": "West Virginia",
+   "AverageBirth": 2558,
+   "AverageEducation": 6556,
+   "AverageDrug": 8444,
+   "Latitude": "38.60530199501246",
+   "Longitude": "-80.84614763092266",
+   "Population": 1347403
+ },
+ {
+   "Location": "Wisconsin",
+   "AverageBirth": 5285,
+   "AverageEducation": 13111,
+   "AverageDrug": 34556,
+   "Latitude": "44.149685510996115",
+   "Longitude": "-89.66109469598975",
+   "Population": 5981538
+ },
+ {
+   "Location": "Wyoming",
+   "AverageBirth": 752,
+   "AverageEducation": 1667,
+   "AverageDrug": 3667,
+   "Latitude": "42.779493548387094",
+   "Longitude": "-107.70956075268812",
+   "Population": 490393
+ }
+]

@@ -1,0 +1,74 @@
+.aText {
+  font-family: "georgia";
+  font-size: 20px;
+  text-anchor: middle;
+}
+
+.active {
+  font-weight: bold;
+  fill: rgb(5, 3, 24);
+  transition: fill 0.3s ease-out;
+  text-anchor: middle;
+  font-family: "georgia"
+  font-size: 12px;
+}
+
+.inactive {
+  font-weight: lighter;
+  fill: #c9c9c9;
+  transition: fill 0.3s ease-out;
+  text-anchor: middle;
+}
+
+.inactive:hover {
+  fill: rgb(3, 16, 29);
+  cursor: pointer;
+}
+
+.stateText {
+  font-family: Georgia;
+  fill: #fff;
+  text-anchor: middle;
+}
+
+.stateCircle {
+  fill: #4c6f7c;
+  stroke: #e3e3e3;
+}
+
+.chart {
+  display: block;
+  margin: 0;
+}
+
+.d3-tip {
+  padding: 6px;
+  font-size: 15px;
+  line-height: 0.5;
+  line-height: 1em;
+  color: #fff;
+  text-align: center;
+  text-transform: capitalize;
+  background: rgba(4, 24, 24, 0.8);
+  border-radius: 4px;
+  font-family: Georgia;
+}
+
+/* Mobile Rules */
+@media screen and (max-width: 530px) {
+  .stateText {
+    display: none;
+  }
+
+  .aText {
+    font-size: 14px;
+    font-family: Georgia;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  .aText {
+    font-size: 13px;
+    font-family: Georgia;
+  }
+}
